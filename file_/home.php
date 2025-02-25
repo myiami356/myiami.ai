@@ -17,7 +17,7 @@
       <div class="" >
         <h1 style="font-size:60px;"><b>Myiami.AI</b></h1>
         <p class="text-muted">Gunakan Futuristik AI chatbot di lokal server kamu,<br />Layanan Chat bot virtual yang
-          bisa kamu gunain untuk sehari-hari bisa integrasi langsung di aplikasi kamu</p>
+          bisa kamu gunain untuk sehari-hari bisa integrasi langsung di aplikasi kamu Bagaikannn</p>
 
       </div>
     </div>
